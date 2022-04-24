@@ -1,1 +1,1 @@
-***Niagara Howto***
+#Niagara HowTo
